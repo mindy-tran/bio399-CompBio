@@ -5,7 +5,7 @@ decided to focus on applying our developing computer programming
 chops to studying COVID and the evolution of the virus
 that causes the disease SARS-CoV-2.
 
-Mindy: my homework solutions are in the problem-sets folder
+Mindy: my homework solutions are in the problem_sets folder
 
 # How to keep your class material up to date on the server
 Generally you will want to keep the your copy of the class
